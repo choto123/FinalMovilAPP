@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiandov2</string>
+    <string name="resenahoteles">
+        Scopri un nuovo modo di vivere l esperienza alberghiera con questa incredibile app mobile. Ti garantisce momenti indimenticabili e un comfort assoluto durante il tuo soggiorno. Non aspettare oltre e immergiti in un avventura ricca di lusso e relax! Prenota ora e goditi i migliori hotel della zona!
+    </string>
+    <string name="resenarestaurantes">
+        Scopri un esperienza culinaria straordinaria in questi ristoranti. Con una vasta varietà di piatti squisiti e un atmosfera accogliente, questi luoghi sono perfetti per deliziare il tuo palato. Dai sapori tradizionali alle creazioni innovative, ogni morso ti porterà in un mondo di gusto e piacere. Non perdere l occasione di assaggiare queste delizie culinarie. Prenota il tuo tavolo oggi stesso e lasciati conquistare da un esperienza culinaria unica!
+    </string>
+    <string name="resenasitios">
+        Spiaggia Paradisiaca:
+            Visitare la Spiaggia Paradisiaca e come entrare in un paradiso terrestre. Le sue acque cristalline e la sabbia bianca ti trasportano in un mondo di tranquillita e bellezza. Che tu voglia rilassarti al sole, praticare emozionanti sport acquatici o ammirare tramonti mozzafiato, questa spiaggia ha tutto. Non perdere l opportunità di vivere la magia di questo luogo!
+
+        Monumento Storico:
+            Il Monumento Storico e un tesoro culturale che non puoi perdere. La sua imponente architettura e la sua ricca storia ti incanteranno. Mentre percorri i suoi corridoi e ammiri i dettagli, potrai apprezzare la grandezza di questo luogo iconico. Immergiti nel passato e lasciati affascinare dalle storie affascinanti che questo monumento ha da raccontare.
+
+        Passeggiata nella Natura:
+            Esplorare i paesaggi naturali di questo luogo e un esperienza indimenticabile. I suoi sentieri ti conducono attraverso foreste rigogliose e montagne maestose, dove potrai meravigliarti per la flora e la fauna locali. Respira l aria fresca e ricarica le tue energie mentre ti immergi nella serenità della natura. Una passeggiata che ti riconnetterà con l essenza della vita!
+    </string>
+    <string name="opcion1">
+        Inglese
+    </string>
+    <string name="opcion2">
+        spagnolo
+    </string>
+    <string name="opcion3">
+        Italiano
+    </string>
+    <string name="opcion4">
+        Chi siamo
+    </string>
+</resources>

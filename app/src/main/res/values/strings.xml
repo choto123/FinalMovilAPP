@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Turistiandov2</string>
+    <string name="resenahoteles">
+        Descubre una nueva forma de vivir la experiencia hotelera con esta increíble app móvil. Te garantiza momentos inolvidables y comodidad absoluta durante tu estadía. ¡No esperes más y sumérgete en una aventura llena de lujo y relax! ¡Reserva ahora y disfruta de los mejores hoteles de la zona!
+        </string>
+    <string name="resenarestaurantes">
+        Descubre una experiencia culinaria extraordinaria en estos restaurantes. Con una amplia variedad de platos exquisitos y un ambiente acogedor, estos lugares son perfectos para deleitar tu paladar. Desde sabores tradicionales hasta creaciones innovadoras, cada bocado te transportará a un mundo de sabor y disfrute. No pierdas la oportunidad de probar estas delicias gastronómicas. ¡Reserva tu mesa hoy mismo y déjate cautivar por una experiencia culinaria única!
+    </string>
+    <string name="resenasitios">
+        Playa Paradisíaca:
+            Visitar la playa paradisíaca es como adentrarse en un paraíso terrenal. Sus aguas cristalinas y su arena blanca te transportan a un mundo de tranquilidad y belleza. Ya sea para relajarte bajo el sol, practicar deportes acuáticos emocionantes o disfrutar de impresionantes puestas de sol, esta playa lo tiene todo. ¡No puedes perderte la oportunidad de experimentar la magia de este lugar!
+
+        Monumento Histórico:
+            El monumento histórico es un tesoro cultural que no debes dejar de visitar. Su arquitectura imponente y su rica historia te cautivarán. Al recorrer sus pasillos y contemplar sus detalles, podrás apreciar la grandeza de este lugar emblemático. Sumérgete en el pasado y déjate llevar por las historias fascinantes que este monumento tiene para contar.
+
+        Paseo en la Naturaleza:
+            Explorar los paisajes naturales de este lugar es una experiencia inolvidable. Sus senderos te llevan a través de exuberantes bosques y majestuosas montañas, donde podrás maravillarte con la flora y la fauna local. Respira aire puro y recarga energías mientras te sumerges en la serenidad de la naturaleza. ¡Un paseo que te conectará con lo esencial!
+    </string>
+    <string name="opcion1">
+        Ingles
+    </string>
+    <string name="opcion2">
+        Español
+    </string>
+    <string name="opcion3">
+        Italiano
+    </string>
+    <string name="opcion4">
+        Acerca de
+    </string>
+</resources>

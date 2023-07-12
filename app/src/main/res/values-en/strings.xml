@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiandov2</string>
+    <string name="resenahoteles">
+       Discover a new way to experience the hotel industry with this incredible mobile app. It ensures unforgettable moments and absolute comfort during your stay. Don t wait any longer and immerse yourself in an adventure full of luxury and relaxation! Book now and enjoy the best hotels in the area!
+    </string>
+    <string name="resenarestaurantes">
+        Discover an extraordinary culinary experience at these restaurants. With a wide variety of exquisite dishes and a cozy atmosphere, these places are perfect for delighting your taste buds. From traditional flavors to innovative creations, each bite will transport you to a world of flavor and enjoyment. Don t miss the opportunity to taste these culinary delights. Book your table today and let yourself be captivated by a unique dining experience!
+    </string>
+    <string name="resenasitios">
+        Paradise Beach:
+            Visiting Paradise Beach is like stepping into a heavenly paradise. Its crystal-clear waters and white sands transport you to a world of tranquility and beauty. Whether you want to relax under the sun, indulge in thrilling water sports, or witness breathtaking sunsets, this beach has it all. Don t miss the opportunity to experience the magic of this place!
+
+        Historical Monument:
+            The Historical Monument is a cultural treasure that you must visit. Its impressive architecture and rich history will captivate you. As you wander through its corridors and admire its intricate details, you ll appreciate the grandeur of this iconic place. Immerse yourself in the past and be enchanted by the fascinating stories that this monument has to tell.
+
+        Nature Walk:
+            Exploring the natural landscapes of this place is an unforgettable experience. Its trails lead you through lush forests and majestic mountains, where you can marvel at the local flora and fauna. Breathe in the fresh air and recharge your energy as you immerse yourself in the serenity of nature. A walk that will reconnect you with the essence of life!
+    </string>
+    <string name="opcion1">
+        English
+    </string>
+    <string name="opcion2">
+        Spanish
+    </string>
+    <string name="opcion3">
+        Italian
+    </string>
+    <string name="opcion4">
+        About Us
+    </string>
+</resources>
